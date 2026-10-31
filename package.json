@@ -1,0 +1,13 @@
+{
+  "name": "tag7",
+  "version": "0.1.0",
+  "private": true,
+  "description": "TAg7 - agendamento online para barbearias e salões, sem dependência do WhatsApp.",
+  "license": "SEE LICENSE IN LICENSE",
+  "workspaces": ["packages/*", "apps/*"],
+  "scripts": {
+    "test": "npm run test --workspace @tag7/core",
+    "typecheck": "npm run typecheck --workspace @tag7/core"
+  },
+  "engines": { "node": ">=20" }
+}
