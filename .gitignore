@@ -13,3 +13,5 @@ coverage/
 *.pem
 *.key
 license-private*
+
+*.zip
