@@ -4,7 +4,7 @@ Agendamento online para barbearias e salões. O cliente agenda por um link, sem 
 
 > Código disponível para estudo e uso não comercial ([PolyForm Noncommercial 1.0.0](LICENSE)). Uso comercial: entre em contato.
 
-![CI](https://github.com/SEU-USUARIO/tag7/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/tiagao7/tag7/actions/workflows/ci.yml/badge.svg)
 
 ## Status
 
